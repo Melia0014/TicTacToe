@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="player1">Player 1 Points:</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="start_new_game">Start New Game</string>
+    <string name="player2">Player 2 Points:</string>
+    <string name="sveiki">Sveiki!</string>
+    <string name="first_player_name">First player name</string>
+    <string name="second_player_name">Second player name</string>
+    <string name="return_to_start">Return to start</string>
+    <string name="hello">Hello!</string>
+</resources>
